@@ -37,4 +37,4 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-[*Live link*](https://glacial-beyond-72237.herokuapp.com/)
+[*Live link*](https://static-pages-debs.herokuapp.com/)
